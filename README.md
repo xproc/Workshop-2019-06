@@ -5,4 +5,8 @@ in London, UK, June 10-11 2019, immediately after [Markup UK](http://markupuk.or
 
 Additional [details](https://github.com/xproc/Workshop-2019-06/wiki) and a
 [provisional agenda](https://github.com/xproc/Workshop-2019-06/wiki/Agenda) are
-on the wiki. (Feel free to contribute!)
+on the wiki.
+
+The draft minutes of [Monday](https://github.com/xproc/Workshop-2019-06/wiki/10-June-Minutes)
+and [Tuesday](https://github.com/xproc/Workshop-2019-06/wiki/11-June-Minutes) have been
+published.
